@@ -150,9 +150,10 @@ if(isNull!=="m")
       <Card
         id="Card"
         style={{
-          width: "40rem",
+          width: "35rem",
           height: "25rem",
-          margin: "7% 0 0 25%",
+          float:'right',
+          margin: "7% 1% 0 0",
           boxShadow: "8.0px 16.0px 16.0px hsl(90deg 0% 0% / 0.25)",
         }}
       >

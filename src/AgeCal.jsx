@@ -50,7 +50,8 @@ const AgeCal = () => {
   };
 
   const getWarningMessageForFutureDate = () => {
-    toast.info(`Are you born in the future, Jocking? . `, {
+    toast.info(`
+Are you from the future? Just kidding!. `, {
       position: "top-center",
       autoClose: 5000,
       hideProgressBar: false,
